@@ -1,0 +1,25 @@
+# Patron creacional de la aplicación basado en el patrón Builder
+
+* Estado: Rechazada
+* Decisores: Alejandro Fernandez, Gabriel Villasevil
+* Fecha: 2021-10-31
+
+# La aplicación ha de tener una entidad centralizada por lo que necesitamos gestionar bien las instancias que se tengan de la aplicación
+
+## Opciones Consideradas
+
+* Opción 1: Singleton
+* Opción 2: Builder
+
+## Decisión Final
+
+Opción escogida: "Opción 1", porque su implementación es simple y clara sobre como mantener una unica instancia del sistema, lo cual es suficiente para la gestión total del mismo.
+
+### Consecuencias positivas
+
+* Se podría abstraer la creación de instancias y manejarlo con más versatilidad
+* La implementación del diseño es más amigable para su uso y manipulación
+
+### Consecuencias Negativas
+
+* Su diseño es más complejo y no asegura la existencia de una unica instancia. 

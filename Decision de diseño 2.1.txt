@@ -1,0 +1,26 @@
+# Patron creacional de la aplicación
+
+* Estado: Aceptada
+* Decisores: Alejandro Fernandez, Gabriel Villasevil
+* Fecha: 2021-10-31 
+
+#La aplicación ha de tener una entidad centralizada por lo que necesitamos gestionar bien las instancias que se tengan de la aplicación
+
+## Opciones Consideradas
+
+* Opción 1: Singleton
+* Opción 2: Builder
+
+## Decisión Final
+
+Chosen option: "Opción 1", porque su implementación es simple y clara sobre como mantener una unica instancia del sistema, lo cual es suficiente para la gestión total del mismo.
+
+### Consecuencias Positivas 
+
+* La implementación es simple y facil de gestionar
+* El diseño es visualmente facil de entender
+
+### Consecuencias Negativas
+
+* Solo exitirá una unica instancia de la clase y no permite abstraer el proceso de creación del objeto en otra instancia
+

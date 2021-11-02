@@ -1,0 +1,33 @@
+# Arquitectura basada en micro-servicios.
+
+* Estado: Aceptado.
+* Decisores: Gabriel Villasevil, Alejandro Fernández.
+* Fecha: 2/11/2021
+
+## Necesitamos integrar y gestionar distintas funcionalidades.
+
+## Motivos de la decisión.
+
+* Motivación 1: R 3: Integrar Microservicios.
+
+## Opciones consideradas.
+
+* Opción 1: Arquitectura basada en micro-servicios.
+* Opción 2: Arquitectura monolitica.
+
+## Decisión resultante.
+
+Opción escogida: Opción 1: Para integrar con facilidad los microservicios.
+
+### Consecuencias positivas
+
+* Son pequeños y fáciles en desarrollar y entender.
+* El desarrollo puede hacerse de manera independiente
+* Elimina la dependencia tecnológica
+
+### Consecuencias negativas
+
+* Complejidad de sistemas distribuidos.
+* Complejidad del testing.
+* Complejidad del despliegue de diferentes micro-servicios.
+* Mayor consumo de memoria.

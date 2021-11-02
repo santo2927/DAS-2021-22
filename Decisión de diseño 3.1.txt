@@ -1,0 +1,28 @@
+# Base de datos de usuarios del sistema.
+
+* Estado: Aceptado.
+* Decisores: Gabriel Villasevil, Alejandro Fernández.
+* Fecha: 31/10/2021
+
+## Necesitamos una BBDD que almacene los distintos tipos de usuarios del sistema.
+
+## Motivos de la decisión.
+
+* Motivación 1: R 3.1 Almacenar Preferencias.
+* Motivación 2: R 3.2 Almacenar Datos de Compra.
+
+## Opciones consideradas.
+
+* Opción 1: BBDD de usuarios del sistema.
+
+## Decisión resultante.
+
+Opción escogida: Opción 1: para almacenar los usuarios y saber distinguirlos en funcion a sus roles preferencias y compras.
+
+### Consecuencias positivas
+
+* Somos capaces de almacenar y gestionar los distintos usuarios con persistencia de datos.
+
+### Consecuencias negativas
+
+* Pueden existir fallos entre la conexión sistema-BBDD.

@@ -1,4 +1,4 @@
-# Sistema de gestión de solicitudes
+# Patrón mediator para el sistema de gestión de solicitudes.
 
 * Estado: Aceptada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.

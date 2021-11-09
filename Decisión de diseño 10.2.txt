@@ -1,0 +1,29 @@
+# Modelar la seguridad dentro del MVC.
+
+* Estado: Aceptada.
+* Decisores: Alejandro Fernández, Gabriel Villasevil.
+* Fecha: 09/11/2021
+
+## Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
+
+## Motivos de la decisión.
+
+* Motivación 1: R 6 Sistema de Seguridad:  La aplicación debe contar con un sistema de seguridad que permita al usuario realizar las compras con sus datos personales sin ningún peligro.
+* Motivación 2: R 9 Limite de intentos de compras: La aplicación debe tener la capacidad de restringir el número de intentos de compras de cada usuario a un máximo de 5 para regular el número de peticiones.
+
+## Opciones consideradas.
+
+* Opción 1: patrón mediator para mediar entre la base de datos y el sistema mientras se realizan las solicitudes.
+* Opción 2: gestionar el sistema de seguridad mediante hasheo de contraseñas en la base de datos, sin modificar el estilo MVC.
+
+## Decisión resultante.
+
+Opción escogida: "Opción 2", Porque la seguridad se puede implementar sin necesidad de añadir nuevos estilos o patrones.
+
+### Consecuencias positivas
+
+* Al ser un sistema con usuarios, protegiendo sus contraseñas en la base de datos donde se almacenan vía hash causa una grán seguridad en los usuarios y se mantiene la estructura de éste.
+
+### Consecuencias negativas
+
+* El proyecto podría estar expuesto a ataques de seguridad muy profesionales, poco probables y con un gasto económico aceptable, al estar dentro del mapa de riesgo aceptable.

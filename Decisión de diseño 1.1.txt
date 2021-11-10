@@ -7,7 +7,7 @@
 ## Motivos de la decisión
 
 Motivación 1: Requisitos 1 y 2 Realizar pedido y compras (Modelo)
-Motivación 2: Requisito 7 Control de interfaz (vista)
+Motivación 2: Requisito 8 Control de Interfaz: La aplicación debe tener un componente que controle la interfaz del usuario. (vista)
 Motivación 3: Requisitos 3.X (Todos los referentes al almacenaje de datos en una base de datos) (controlador)
 
 ## Opciones Consideradas

@@ -12,7 +12,7 @@
 
 ## Opciones consideradas.
 
-* Opción 1: patrón mediator para mediar entre la base de datos y el sistema mientras se realizan las solicitudes.
+* Opción 1: patrón mediator para mediar entre el usuario y el sistema mientras se realizan las solicitudes.
 * Opción 2: gestionar las solicitudes en el propio sistema (sin patrón mediator).
 
 ## Decisión resultante.

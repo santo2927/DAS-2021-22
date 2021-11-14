@@ -13,7 +13,7 @@
 
 ## Opciones consideradas.
 
-* Opción 1: patrón mediator para mediar entre la base de datos y el sistema mientras se realizan las solicitudes.
+* Opción 1: Estilo por capas para añadir una capa de seguridad.
 * Opción 2: gestionar el sistema de seguridad mediante hasheo de contraseñas en la base de datos, sin modificar el estilo MVC.
 
 ## Decisión resultante.

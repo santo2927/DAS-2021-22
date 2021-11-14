@@ -1,0 +1,27 @@
+# Patrón Observer para mensajería.
+
+* Estado: Aceptada.
+* Decisores: Alejandro Fernández, Gabriel Villasevil.
+* Fecha: 09/11/2021
+
+## Es necesario que el sistema notifique al usuario cuando se realice una compra.
+
+## Motivos de la decisión.
+
+* Motivación 1: R 5 Sistema de Mensajería: La aplicación debe tener implementado un sistema de mensajería que le permita contactar con el usuario cuando sea necesario (notificaciones del estado del pedido).
+
+## Opciones consideradas.
+
+* Opción 1: Estilo por capas para añadir una capa de seguridad.
+
+## Decisión resultante.
+
+Opción escogida: "Opción 1", Porque el patrón observer es un patrón específicacmente diseñado para la notificación del usuario.
+
+### Consecuencias positivas
+
+* Habilita de manera óptima la notificación al usuario cuando sea necesario.
+
+### Consecuencias negativas
+
+* Ninguna.

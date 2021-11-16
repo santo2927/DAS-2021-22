@@ -18,7 +18,7 @@
 ### UML tras la primera iteración.
 ![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%201.PNG)
 
-## ITERACIÓN 3:
+## ITERACIÓN 2:
 
 ### Decisiones
 * [Decision de diseño 3.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%203.1.md)

@@ -20,7 +20,7 @@
 
 ## Decisión Final
 
-Chosen option: "[Opción 4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.txt)", porque la mayoria de los requisitos caen en una de los tres bloques del Estilo Modelo vista controlador.
+Chosen option: "[Opción 4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.txt)", Debido a las distintas motivaciones enumeradas anteriormente seleccionamos como estilo principal el estilo de capas.
 
 ### Consecuencias Positivas 
 

@@ -1,4 +1,4 @@
-# Tener una capa de Bases de Datos
+# Tener una capa de Datos
 
 * Estado: Aceptada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
@@ -8,19 +8,15 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: [Requisito 3.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.1%20Almacenar%20Preferencias.txt)
-* Motivación 2: [Requisito 3.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.2%20Almacenar%20Datos%20de%20Compra.txt)
-* Motivación 3: [Requisito 3.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.4%20Almacenar%20Lolalización%20de%20Microservicios.txt)
-* Motivación 4: [Requisito 7](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R7%20Acceso%20a%20Bases%20de%20Datos.txt)
-* Motivación 5: [Decisión 1.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.md)
+* Motivación 1: Modelar los distitos datos que son gestionados por la aplicación.
 
 ## Opciones consideradas.
 
-* Opción 1: Tener una capa dedicada a la comunicación con las dos bases de datos SQL(MongoDB) y NoSQL(Azure)
+* Opción 1: Tener una capa dedicada a los distintos datos que son usados por el sistema.
 
 ## Decisión resultante.
 
-Opción escogida: "Opción 1", Al decidir el estilo principal como capas podemos implementar una capa dedicada a las bases de datos para que se conecten con el negocio, dando como resultado dos bases de datos, una SQL MongoDB para los usuarios, los productos y los microservicios y, una base de datos NoSQL Azure que almacene las preferencias de los clientes.
+Opción escogida: "Opción 1", Al decidir el estilo principal como capas podemos implementar una capa dedicada a los distintos datos que va a utilizar el sitema intermediando entre la capa de Negocio y la capa de Bases de Datos.
 
 ### Consecuencias positivas
 

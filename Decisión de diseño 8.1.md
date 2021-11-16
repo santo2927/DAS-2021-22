@@ -8,7 +8,7 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: R5 Sistema de Mensajería: La aplicación debe tener implementado un sistema de mensajería que le permita contactar con el usuario cuando sea necesario (notificaciones del estado del pedido).
+* Motivación 1: [Requisito 5](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R5%20Sistema%20de%20Mensajería.txt).
 
 ## Opciones consideradas.
 

@@ -6,10 +6,10 @@
 
 ## Motivos de la decisión
 
-Motivación 1: [Requisito 1 (MODELO)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R1%20Realizar%20Pedido.txt)
-Motivacion 2: [Requisito 2 (MODELO)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R2%20Realizar%20Devolución.txt)
-Motivación 3: [Requisito 8 (VISTA)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R8%20Control%20de%20Interfaz.txt)
-Motivación 4: [Requisitos 3.3 (CONTROLADOR)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.3%20Gestionar%20Solicitudes.txt)
+* Motivación 1: [Requisito 1 (MODELO)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R1%20Realizar%20Pedido.txt)
+* Motivacion 2: [Requisito 2 (MODELO)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R2%20Realizar%20Devolución.txt)
+* Motivación 3: [Requisito 8 (VISTA)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R8%20Control%20de%20Interfaz.txt)
+* Motivación 4: [Requisitos 3.3 (CONTROLADOR)](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.3%20Gestionar%20Solicitudes.txt)
 
 ## Opciones Consideradas
 

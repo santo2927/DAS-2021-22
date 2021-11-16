@@ -8,8 +8,8 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: R 3.1 Almacenar Preferencias.
-* Motivación 2: R 3.2 Almacenar Datos de Compra.
+* Motivación 1: [Requisito 3.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.1%20Almacenar%20Preferencias.txt)
+* Motivación 2: [Requisito 3.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.2%20Almacenar%20Datos%20de%20Compra.txt)
 
 ## Opciones consideradas.
 

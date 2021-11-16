@@ -6,11 +6,11 @@
 
 ## Motivos de la decisión
 
-Motivación 1: [Requisito 3.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.1%20Almacenar%20Preferencias.txt) (Seria parte de la pizarra)
-Motivacion 2: [Requisito 3.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.2%20Almacenar%20Datos%20de%20Compra.txt) (Seria parte de la pizarra)
-Motivacion 3: [Requisito 3.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.4%20Almacenar%20Lolalización%20de%20Microservicios.txt) (Seria parte de la pizarra)
-Motivacion 4: [Requisito 3.5](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.5%20Comunicación%20Cliente-Microservicio.txt) (Seria parte de la pizarra)
-Motivación 5: Resto de requisitos (Estos se cumplirían obteniendo los datos de la pizarra ya sea para por ejemplo mostrar la interfaz, o para obtener datos de la base de datos)
+* Motivación 1: [Requisito 3.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.1%20Almacenar%20Preferencias.txt) (Seria parte de la pizarra)
+* Motivacion 2: [Requisito 3.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.2%20Almacenar%20Datos%20de%20Compra.txt) (Seria parte de la pizarra)
+* Motivacion 3: [Requisito 3.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.4%20Almacenar%20Lolalización%20de%20Microservicios.txt) (Seria parte de la pizarra)
+* Motivacion 4: [Requisito 3.5](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.5%20Comunicación%20Cliente-Microservicio.txt) (Seria parte de la pizarra)
+* Motivación 5: Resto de requisitos (Estos se cumplirían obteniendo los datos de la pizarra ya sea para por ejemplo mostrar la interfaz, o para obtener datos de la base de datos)
 
 ## Opciones Consideradas
 

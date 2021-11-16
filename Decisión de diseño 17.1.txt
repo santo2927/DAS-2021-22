@@ -1,4 +1,4 @@
-# Estilo por capas para añadir capa de seguridad.
+# Tener capa de seguridad.
 
 * Estado: Aceptada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
@@ -8,8 +8,8 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: R 6 Sistema de Seguridad:  La aplicación debe contar con un sistema de seguridad que permita al usuario realizar las compras con sus datos personales sin ningún peligro.
-* Motivación 2: Decision 14.1 = Estilo por capas para manejar las distintas funcionalidades de la aplicación
+* Motivación 1: R6 Sistema de Seguridad
+* Motivación 2: Decision 14.1 Cambio del estilo principal MVC por estilo por capas para manejar las distintas funcionalidades de la aplicación
 
 ## Opciones consideradas.
 

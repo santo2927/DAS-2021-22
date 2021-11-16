@@ -1,0 +1,29 @@
+# Tener una capa de Usuario
+
+* Estado: Aceptada.
+* Decisores: Alejandro Fernández, Gabriel Villasevil.
+* Fecha: 16/11/2021
+
+## Es necesario decidir que capas y que incluye cada capa.
+
+## Motivos de la decisión.
+
+* Motivación 1: Decision 14.1 Cambio del estilo principal MVC por estilo por capas para manejar las distintas funcionalidades de la aplicación
+* Motivación 2: R8 Control de Interfaz
+* Motivacion 3: R3.3 Gestionar Solicitudes
+
+## Opciones consideradas.
+
+* Opción 1: Tener una capa Usuario para gestionar las solicitudes y tener un control de la interfaz
+
+## Decisión resultante.
+
+Opción escogida: "Opción 1", Por el cambio de estilo de diseño en la decisión 14 podemos implementar una capa dedicada al usuario para que se conecte con el negocio.
+
+### Consecuencias positivas
+
+* Añadir una capa enteramente dedicada al usuario.
+
+### Consecuencias negativas
+
+* Rehacer el estilo principal de la practica para poder implementarlo.

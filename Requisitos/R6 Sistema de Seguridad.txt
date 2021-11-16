@@ -1,0 +1,5 @@
+La aplicación debe contar con un sistema de seguridad que permita al usuario realizar las compras con sus datos personales sin ningún peligro.
+
+¿Por qué?
+
+módulo de seguridad en compras

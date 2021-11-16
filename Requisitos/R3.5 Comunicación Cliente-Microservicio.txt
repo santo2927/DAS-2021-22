@@ -1,0 +1,7 @@
+La aplicación contará con un componente Gateway que permitirá a los clientes conectarse 
+con los Microservicios.
+
+¿Por qué?
+
+Los clientes se comunican con los microservicios mediante un componente Gateway que 
+contiene un módulo para monitorizar el estado de cada microservicio 

@@ -1,0 +1,5 @@
+La aplicación debe poder conectarse con el sistema de pago previamente elegido por el usuario para asi poder realizar la compra
+
+¿Por qué?
+
+módulo de conexión a sistemas de pago

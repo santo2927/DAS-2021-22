@@ -1,19 +1,21 @@
-# Gestionar las solicitudes directamente desde el sistema. (Sin mediator)
+# Modelar las comunicaciones cliente-microsesrvicio dentro del estilo MVC
 
-* Estado: Rechazada.
+* Estado: rechazada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 09/11/2021
 
-## Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
+## Es necesario que exista comunicación entre el sistema (los clientes) y los microservicios.
 
 ## Motivos de la decisión.
 
-* Motivación 1: Requisito R3.3: Gestionar Solicitudes: El sistema de la aplicación debe ser capaz de poder gestionar cualquier solicitud realizada por el usuario.
+* Motivación 1: R 3.4 Almacenar Localización de Microservicios: La aplicación debe contar con una Base de Datos en MongoDB que permita guardar el lugar donde se encuentran los microservicios.
+* Motivación 2: R 3.5 Comunicación Cliente-Microservicio: La aplicación contará con un componente Gateway que permitirá a los clientes conectarse con los Microservicios.
 
 ## Opciones consideradas.
 
-* Opción 1: patrón mediator para mediar entre el usuario y el sistema mientras se realizan las solicitudes.
-* Opción 2: gestionar las solicitudes en el propio sistema (sin patrón mediator).
+* Opción 1: Estilo Cliente-Servidor.
+* Opción 2: Integrar los microservicios dentro del MVC.
+* Opción 3: Estilo Rest.
 
 ## Decisión resultante.
 
@@ -21,8 +23,8 @@ Opción escogida: "Opción 1", Porque a la hora de gestionar las solicitudes ten
 
 ### Consecuencias positivas
 
-* Gestionar las solicitudes desde el sistema sin mediar podría acelerar levemente el proceso.
+* Mayor divisibilidad de elementos entre controlador-vista-modelo.
 
 ### Consecuencias negativas
 
-* La escalabilidad es reducida, ya que para añadir funcionalidades al sistema de gestión de solicitudes habría que modificar al mismo tiempo los campos de la base de datos y las funcionalidades del sistema.
+* Implementar las comunicaciones cliente-microservicio dentro del estilo MVC sería romper con su idea modelo-vista-controlador.

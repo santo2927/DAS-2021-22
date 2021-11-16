@@ -1,0 +1,4 @@
+El usuario debería ser capaz de registrar uno o varios pedidos si hubiera algún producto que le interesara.
+
+¿Por qué?
+módulo de seguridad en compras

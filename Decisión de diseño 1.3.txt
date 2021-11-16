@@ -14,10 +14,11 @@ Motivación 2: Resto de requisitos (Estos se cumplirían obteniendo los datos de
 * Opción 1: Modelo Vista Controlador
 * Opción 2: Cliente-servidor
 * Opción 3: Pizarra
+* Opción 4: Capas
 
 ## Decisión Final
 
-Chosen option: "Opción 1", porque la mayoria de los requisitos caen en una de los tres bloques del Estilo Modelo vista controlador.
+Chosen option: "Opción 4", porque la mayoria de los requisitos caen en una de los tres bloques del Estilo Modelo vista controlador.
 
 ### Consecuencias Positivas 
 

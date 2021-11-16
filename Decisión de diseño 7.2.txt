@@ -1,6 +1,6 @@
-# Patrón mediator para el sistema de gestión de solicitudes.
+# Gestionar las solicitudes directamente desde el sistema. (Sin mediator)
 
-* Estado: Aceptada.
+* Estado: Rechazada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 09/11/2021
 
@@ -12,8 +12,8 @@
 
 ## Opciones consideradas.
 
-* Opción 1: patrón mediator para mediar entre los usuarios y el sistema mientras se realizan las solicitudes.
-* Opción 2: gestionar las solicitudes en el propio sistema.
+* Opción 1: patrón mediator para mediar entre el usuario y el sistema mientras se realizan las solicitudes.
+* Opción 2: gestionar las solicitudes en el propio sistema (sin patrón mediator).
 
 ## Decisión resultante.
 
@@ -21,8 +21,8 @@ Opción escogida: "Opción 1", Porque a la hora de gestionar las solicitudes ten
 
 ### Consecuencias positivas
 
-* Se podrá escalar la funcionabilidad del sistema de solicitudes de forma más eficiente.
+* Gestionar las solicitudes desde el sistema sin mediar podría acelerar levemente el proceso.
 
 ### Consecuencias negativas
 
-* Añadir un paso entre el usuario y el sistema para controlar las solicitudes de manera eficiente podría ralentizar el proceso levemente.
+* La escalabilidad es reducida, ya que para añadir funcionalidades al sistema de gestión de solicitudes habría que modificar al mismo tiempo los campos de la base de datos y las funcionalidades del sistema.

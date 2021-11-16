@@ -1,0 +1,8 @@
+La aplicación debe ser capaz de poder integrar microservicios para así poder mantenerse 
+aun que se produzcan un mayor número de compras y guardar las preferencias de los usuarios.
+
+¿Por qué?
+
+La nueva aplicación deberá ser capaz de integrar microservicios de forma asíncrona y
+altamente escalable para soportar un mayor número de compras vía móvil y detección de
+preferencias de usuarios de una forma más eficiente. 

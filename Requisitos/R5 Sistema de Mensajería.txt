@@ -1,0 +1,5 @@
+La aplicación debe tener implementado un sistema de mensajería que le permita contactar con el usuario cuando sea necesario (notificaciones del estado del pedido).
+
+¿Por qué?
+
+módulo de mensajería a dispositivos móviles

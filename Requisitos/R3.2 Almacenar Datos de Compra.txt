@@ -1,0 +1,8 @@
+La aplicación debe ser capaz de almacenar los datos de cada compra, para llevar un registro 
+de las compras que se han realizado cada mes.
+
+¿Por qué?
+
+El sistema actual gestiona las solicitudes mediante una lógica de negocio dos bases de datos 
+(una SQL y otra NoSQL) que almacenan datos de compras por Internet y de preferencias de los 
+clientes respectivamente.

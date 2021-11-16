@@ -1,0 +1,7 @@
+La aplicación debe tener la capacidad de restringir el número de intentos 
+de compras de cada usuario a un máximo de 5 para regular el número de peticiones.
+
+¿Por qué?
+
+Se deberá limitar el número de intentos de compra a 5 de manera que no se
+sobrecargue el número de peticiones a los microservicios correspondientes

@@ -19,7 +19,7 @@ Motivación 3: Requisitos 3.X (Todos los referentes al almacenaje de datos en un
 
 ## Decisión Final
 
-Chosen option: "Opción 1", porque la mayoria de los requisitos caen en una de los tres bloques del Estilo Modelo vista controlador.
+Chosen option: "Opción 4", porque la mayoria de los requisitos caen en una de los tres bloques del Estilo Modelo vista controlador.
 
 ### Consecuencias Positivas 
 

@@ -1,0 +1,6 @@
+La aplicación debe tener un componente que controle la interfaz del usuario.
+
+¿Por qué?
+
+Componente de presentación: Son los responsables del control de la interfaz de usuario
+y el consumo de servicios remotos

@@ -1,5 +1,4 @@
-# Cambio del estilo principal MVC por estilo por capas para manejar las distintas funcionalidades de la aplicación
-
+# Estilo por capas para manejar las distintas funcionalidades de la aplicación
 * Estado: Aceptada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 2021-11-16
@@ -19,7 +18,7 @@ Motivación 3: El sistema estaba anteriormente basado en una arquitectura Web de
 
 ## Decisión Final
 
-Chosen option: "Opción 4", Debido a las distintas motivaciones enumeradas anteriormente cambiamos el estilo principal a un estilo por capas.
+Chosen option: "Opción 4", Debido a las distintas motivaciones enumeradas anteriormente seleccionamos como estilo principal el estilo de capas.
 
 ### Consecuencias Positivas 
 

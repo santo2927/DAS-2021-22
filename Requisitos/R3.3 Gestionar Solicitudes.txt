@@ -1,0 +1,5 @@
+El sistema de la aplicación debe ser capaz de poder gestionar cualquier solicitud realizada por el usuario.
+
+¿Por qué?
+
+El sistema actual gestiona las solicitudes mediante una lógica de negocio dos bases de datos

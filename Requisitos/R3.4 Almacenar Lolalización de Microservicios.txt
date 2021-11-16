@@ -1,0 +1,7 @@
+La aplicación debe contar con una Base de Datos en MongoDB 
+que permita guardar el lugar donde se encuentran los microservicios.
+
+¿Por qué?
+
+deberá contar con una nueva base de datos en MongoDB para
+almacenar la localización de microservicios de la empresa y otros similares.

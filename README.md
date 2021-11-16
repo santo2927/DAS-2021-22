@@ -51,7 +51,7 @@
 ### UML FINAL:
 ![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204.PNG)
 
-###TABLA DE TIEMPOS:
+### TABLA DE TIEMPOS:
 | Semana | Iteración | Tiempo en ADD | Tiempo de reflexión | Tiempo de refinado | Tiempo de diseño |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | 0 | 30 minutos | 15 minutos | 5 minutos | ------------- |

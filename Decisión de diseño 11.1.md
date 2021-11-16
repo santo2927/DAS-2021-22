@@ -8,9 +8,9 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: Decision 3.1 = Base de datos de usuarios del sistema.
-* Motivación 2: Decision 5.1 = Base de datos MongoDB para almacenar los microservicios con bus dedicado Azure Service Bus.
-* Motivacion 3: Base de datos NoSQL
+* Motivación 1: [Decisión 3.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%203.1.md)
+* Motivación 2: [Decisión 5.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%205.1.md)
+* Motivacion 3: [Requisito 3.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.1%20Almacenar%20Preferencias.txt)
 
 ## Opciones consideradas.
 

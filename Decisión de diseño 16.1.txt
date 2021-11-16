@@ -20,7 +20,7 @@
 
 ## Decisión resultante.
 
-Opción escogida: "Opción 1", Por el cambio de estilo de diseño en la decisión 14 podemos implementar una capa dedicada al usuario para que se conecte con el negocio.
+Opción escogida: "Opción 1", Por el cambio de estilo de diseño en la decisión 14 podemos implementar una capa dedicada al negocio para que se conecte con el usuario y las BBDD.
 
 ### Consecuencias positivas
 

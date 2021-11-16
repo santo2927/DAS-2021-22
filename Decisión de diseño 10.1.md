@@ -8,7 +8,7 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: R9 Limite de intentos de compras: La aplicación debe tener la capacidad de restringir el número de intentos de compras de cada usuario a un máximo de 5 para regular el número de peticiones.
+* Motivación 1: [Requisito 9](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R9%20Limite%20de%20intentos%20de%20compras.txt)
 
 ## Opciones consideradas.
 

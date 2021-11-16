@@ -12,7 +12,7 @@
 
 ## Opciones consideradas.
 
-* Opción 1: Estilo por capas para añadir una capa de seguridad.
+* Opción 1: Patrón observer para mensajería
 
 ## Decisión resultante.
 

@@ -8,16 +8,16 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: R 3: Integrar Microservicios.
+* Motivación 1: [Requisito 3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3%20Integrar%20Microservicios.txt)
 
 ## Opciones consideradas.
 
-* Opción 1: Arquitectura basada en micro-servicios.
-* Opción 2: Arquitectura monolitica.
+* [Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%204.1.md): Arquitectura basada en micro-servicios.
+* [Opción 2](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%204.2.md): Arquitectura monolitica.
 
 ## Decisión resultante.
 
-Opción escogida: Opción 1: Para integrar con facilidad los microservicios.
+Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%204.1.md)": Para integrar con facilidad los microservicios.
 
 ### Consecuencias positivas
 

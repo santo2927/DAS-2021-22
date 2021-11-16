@@ -8,10 +8,10 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: Decision 1.4
-* Motivacion 2: R3 Integrar Microservicios
-* Motivacion 3: R4 Conectar con el Sistema de pago
-* Motivacion 4: R5 Sistema de mensajería
+* Motivación 1: [Decision 1.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.md)
+* Motivacion 2: [Requisito 3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3%20Integrar%20Microservicios.txt)
+* Motivacion 3: [Requisito 4](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R4%20Conectar%20con%20el%20Sistema%20de%20pago.txt)
+* Motivacion 4: [Requisito 5](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R5%20Sistema%20de%20Mensajería.txt)
 
 
 ## Opciones consideradas.

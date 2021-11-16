@@ -52,4 +52,10 @@
 ![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204.PNG)
 
 ###TABLA DE TIEMPOS:
-![TIEMPO](https://github.com/santo2927/DAS-2021-22/blob/master/Tiempo.PNG)
+| Semana | Iteración | Tiempo en ADD | Tiempo de reflexión | Tiempo de refinado | Tiempo de diseño |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | 0 | 30 minutos | 15 minutos | 5 minutos | ------------- |
+| 2 | 1 | 20 minutos | 20 minutos | 5 minutos | 180 minutos |
+| 3 | 2 | 25 minutos | 40 minutos | 5 minutos | 360 minutos |
+| 4 | 3 | 30 minutos | 30 minutos | 5 minutos | 150 minutos |
+| 5 | 4 | 70 minutos | 70 minutos | 10 minutos | 500 minutos |

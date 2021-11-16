@@ -2,7 +2,7 @@
 
 ## ITERACIÓN 1:
 
-###Decisiones
+### Decisiones
 * [Decision de diseño 1.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%201.1.md)
 * [Decision de diseño 1.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%201.2.md)
 * [Decision de diseño 1.3](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%201.3.md)
@@ -20,7 +20,7 @@
 
 ## ITERACIÓN 3:
 
-###Decisiones
+### Decisiones
 * [Decision de diseño 3.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%203.1.md)
 * [Decision de diseño 3.1.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%203.1.1.md)
 * [Decision de diseño 3.1.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%203.1.2.md)
@@ -34,7 +34,7 @@
 
 ## ITERACIÓN 3:
 
-###Decisiones
+### Decisiones
 * [Decision de diseño 6.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%206.1.md)
 * [Decision de diseño 6.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%206.2.md)
 * [Decision de diseño 7.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%207.1.md)

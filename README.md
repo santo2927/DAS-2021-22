@@ -44,7 +44,7 @@
 * [Decision de diseño 9.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%209.1.md)
 
 ### UML tras la tercera iteración.
-![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%203.PNG)
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%203.png)
 
 ## FINAL:
 

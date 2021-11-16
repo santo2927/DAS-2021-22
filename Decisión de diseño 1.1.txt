@@ -1,6 +1,6 @@
 # Estilo Modelo Vista Controlador para manejar las distintas funcionalidades de la aplicación
 
-* Estado: Aceptada
+* Estado: Rechazada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 2021-10-27
 
@@ -15,6 +15,7 @@ Motivación 3: Requisitos 3.X (Todos los referentes al almacenaje de datos en un
 * Opción 1: Modelo Vista Controlador
 * Opción 2: Cliente-servidor
 * Opción 3: Pizarra
+* Opción 4: Capas
 
 ## Decisión Final
 

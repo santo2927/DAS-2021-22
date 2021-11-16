@@ -1,0 +1,29 @@
+# Estilo por capas para añadir capa de seguridad.
+
+* Estado: Aceptada.
+* Decisores: Alejandro Fernández, Gabriel Villasevil.
+* Fecha: 16/11/2021
+
+## Es necesario una capa de seguridad para nuestro sistema.
+
+## Motivos de la decisión.
+
+* Motivación 1: R 6 Sistema de Seguridad:  La aplicación debe contar con un sistema de seguridad que permita al usuario realizar las compras con sus datos personales sin ningún peligro.
+* Motivación 2: Decision 14.1 = Estilo por capas para manejar las distintas funcionalidades de la aplicación
+
+## Opciones consideradas.
+
+* Opción 1: Estilo por capas para añadir una capa de seguridad.
+* Opción 2: gestionar el sistema de seguridad mediante hasheo de contraseñas en la base de datos.
+
+## Decisión resultante.
+
+Opción escogida: "Opción 1", Por el cambio de estilo de diseño en la decisión 14 podemos implementar la seguridad como una capa entre Usuario y Negocio.
+
+### Consecuencias positivas
+
+* Añadir una capa enteramente dedicada a la seguridad haría un sistema realmente muy seguro.
+
+### Consecuencias negativas
+
+* Rehacer el estilo principal de la practica para poder implementarlo.

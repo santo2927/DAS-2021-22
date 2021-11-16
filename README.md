@@ -16,7 +16,7 @@
 * [Decision de diseño 2.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%202.2.md)
 
 ### UML tras la primera iteración.
-![UML](Iteracion 1.PNG)
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%201.PNG)
 
 ## ITERACIÓN 3:
 
@@ -30,7 +30,7 @@
 * [Decision de diseño 5.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%205.2.md)
 
 ### UML tras la segunda iteración.
-![UML](Iteracion 2.PNG)
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%202.PNG)
 
 ## ITERACIÓN 3:
 
@@ -44,12 +44,12 @@
 * [Decision de diseño 9.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%209.1.md)
 
 ### UML tras la tercera iteración.
-![UML](Iteracion 3.PNG)
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%203.PNG)
 
 ## FINAL:
 
 ### UML FINAL:
-![UML](Iteracion 4.PNG)
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204.PNG)
 
 ###TABLA DE TIEMPOS:
-![TIEMPO](Tiempo.PNG)
+![TIEMPO](https://github.com/santo2927/DAS-2021-22/blob/master/Tiempo.PNG)

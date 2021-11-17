@@ -1,10 +1,12 @@
 # Modelar las comunicaciones cliente-microsesrvicio con estilo rest.
 
-* Estado: rechazada.
+* Estado: Rechazada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 09/11/2021
 
-## Es necesario que exista comunicación entre el sistema (los clientes) y los microservicios.
+## Contexto y problema
+
+Es necesario que exista comunicación entre el sistema (los clientes) y los microservicios.
 
 ## Motivos de la decisión.
 

@@ -15,4 +15,4 @@ Necesitamos un estilo principal para diseñar el proyecto
 
 ## Decisión Final
 
-Chosen option: "[Opción 2](https://github.com/santo2927/DAS-2021-22/edit/master/Decisión%20de%20diseño%2012.2.md)"
+Chosen option: "[Opción 2](https://github.com/santo2927/DAS-2021-22/edit/master/Decisión%20de%20diseño%2012.2.md)", Debido a las distintas motivaciones enumeradas anteriormente seleccionamos como estilo principal el estilo de capas.

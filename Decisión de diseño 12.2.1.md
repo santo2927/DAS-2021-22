@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 16/11/2021
 
-## Es necesario decidir que capas y que incluye cada capa.
+## Contexto y problema
+
+Es necesario decidir que capas y que incluye cada capa.
 
 ## Motivos de la decisión.
 

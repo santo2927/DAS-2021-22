@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 09/11/2021
 
-## Es necesario que el sistema notifique al usuario cuando se realice una compra.
+## Contexto y problema
+
+Es necesario que el sistema notifique al usuario cuando se realice una compra.
 
 ## Motivos de la decisión.
 

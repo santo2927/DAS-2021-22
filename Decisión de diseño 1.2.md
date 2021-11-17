@@ -3,6 +3,9 @@
 * Estado: Rechazada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 27/10/2021
+## Contexto y problema
+
+Necesitamos un estilo principal para diseñar el proyecto
 
 ## Motivos de la decisión
 

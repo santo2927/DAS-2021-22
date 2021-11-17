@@ -4,7 +4,9 @@
 * Decisores: Gabriel Villasevil, Alejandro Fernández.
 * Fecha: 31/10/2021
 
-## Necesitamos distintos usuarios en el sistema.
+## Contexto y problema
+
+Necesitamos distintos usuarios en el sistema.
 
 ## Motivos de la decisión.
 

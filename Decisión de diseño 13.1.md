@@ -2,6 +2,8 @@
 
 * Estado: Rechazada en la iteración actual.
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
-* Fecha: 2021-11-17 
+* Fecha: 17/11/2021 
 
-# No necesitamos un patrón creacional
+## Contexto y problema
+
+No necesitamos un patrón creacional

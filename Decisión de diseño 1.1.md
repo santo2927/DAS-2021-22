@@ -1,6 +1,6 @@
 # Estilo Modelo Vista Controlador para manejar las distintas funcionalidades de la aplicación
 
-* Estado: Rechazada
+* Estado: Aceptada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 2021-10-27
 
@@ -20,7 +20,7 @@
 
 ## Decisión Final
 
-Chosen option: "[Opción 4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.md)", Debido a las distintas motivaciones enumeradas anteriormente seleccionamos como estilo principal el estilo de capas.
+Chosen option: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.1.md)", porque lo modemos modelar integramente como modelos, vistas y controladores cubriendo todo.
 
 ### Consecuencias Positivas 
 

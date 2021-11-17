@@ -1,27 +1,30 @@
-# Patrón circuit breaker para limitar de manera segura el límite de intentos de compra.
+# Modelar las comunicaciones cliente-microsesrvicio con un estilo Cliente-servidor
 
-* Estado: Aceptada.
+* Estado: aceptada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
-* Fecha: 12/11/2021
+* Fecha: 09/11/2021
 
-## Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
+## Es necesario que exista comunicación entre el sistema (los clientes) y los microservicios.
 
 ## Motivos de la decisión.
 
-* Motivación 1: [Requisito 9](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R9%20Limite%20de%20intentos%20de%20compras.txt)
+* Motivación 1: [Requisito 3.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.4%20Almacenar%20Lolalización%20de%20Microservicios.txt)
+* Motivación 2: [Requisito 3.5](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.5%20Comunicación%20Cliente-Microservicio.txt)
 
 ## Opciones consideradas.
 
-* Opción 1: Patrón circuit breaker.
+* [Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.1.md): Estilo Cliente-Servidor.
+* [Opción 2](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.2.md): Integrar los microservicios dentro del MVC.
+* [Opción 3](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.3.md): Estilo Rest.
 
 ## Decisión resultante.
 
-Opción escogida: "Opción 1", Porque el patrón circuit breaker cumple de manera muy eficiente con nuestro objetivo, limitar en un microservicio el número de compras del usuario.
+Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.1.md)", Porque a la hora de gestionar las solicitudes tener un mediador aumenta la escalabilidad de la funcionalidad de las solicitudes.
 
 ### Consecuencias positivas
 
-* Cumple con precisión uno de los requisitos de nuestro proyecto.
+* El estilo cliente-servidor cumple completamente las necesidades de las comunicaciones cliente-microservicio de nuestro poryecto.
 
 ### Consecuencias negativas
 
-* Su implementación y diseño son algo complejos.
+* Usar más de un estilo aunque no sea el estilo principal del proyecto (ya que éste es el estilo MVC para el resto de las funcionalidades), lo que puede causar confusión en la estructura del proyecto.

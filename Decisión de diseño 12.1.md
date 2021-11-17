@@ -2,7 +2,7 @@
 
 * Estado: Rechazada en la iteración actual
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
-* Fecha: 2021-11-17
+* Fecha: 17/11/2021
 
 ## Opciones Consideradas
 

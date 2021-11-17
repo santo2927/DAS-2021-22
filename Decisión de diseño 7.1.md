@@ -8,7 +8,7 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: Requisito R8: Debe haber una interfaz controlada para el usuario.
+* Motivación 1: [Requisito R8](https://github.com/santo2927/DAS-2021-22/blob/master/Requisitos/R8%20Control%20de%20Interfaz.txt).
 
 ## Opciones consideradas.
 

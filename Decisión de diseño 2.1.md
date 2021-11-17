@@ -1,6 +1,6 @@
 # Patron creacional de la aplicación
 
-* Estado: Rechazada
+* Estado: Aceptada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 31/10/2021
 

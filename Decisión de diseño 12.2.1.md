@@ -8,7 +8,7 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: [Decision 1.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.md)
+* Motivación 1: [Decision 12.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%2012.2.md)
 * Motivacion 2: [Requisito 3.3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.3%20Gestionar%20Solicitudes.txt)
 * Motivación 3: [Requisito 8](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R8%20Control%20de%20Interfaz.txt)
 

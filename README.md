@@ -74,4 +74,4 @@
 | 2 | 1 | 20 minutos | 20 minutos | 5 minutos | 180 minutos |
 | 3 | 2 | 25 minutos | 40 minutos | 5 minutos | 360 minutos |
 | 4 | 3 | 30 minutos | 30 minutos | 5 minutos | 150 minutos |
-| 5 | 4 | 70 minutos | 70 minutos | 10 minutos | 500 minutos |
+| 5 | 4 | 350 minutos | 70 minutos | 10 minutos | 850 minutos |

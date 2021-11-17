@@ -13,7 +13,7 @@
 
 ## Decisión Final
 
-Chosen option: "[Opción 2](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%202.2.md)", porque permite abstraer el proceso de creación del objeto en otra instancia.
+Chosen option: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%202.1.md)", porque su implementación es simple y clara sobre como mantener una unica instancia del sistema, lo cual es suficiente para la gestión total del mismo.
 
 ### Consecuencias positivas
 

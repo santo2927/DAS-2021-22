@@ -62,10 +62,10 @@
 
 
 ### DIAGRAMA DE CLASES FINAL:
-![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204-DiagramaDeClases.png)
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion4-DiagramaDeClases.png)
 
 ### DIAGRAMA DE DESPLIEGUE:
-![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204-DiagramaDeDespliegue.png)
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion4-DiagramaDeDespliegue.png)
 
 ### TABLA DE TIEMPOS:
 | Semana | Iteración | Tiempo en ADD | Tiempo de reflexión | Tiempo de refinado | Tiempo de diseño |

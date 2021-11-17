@@ -12,12 +12,12 @@
 
 ## Opciones consideradas.
 
-* [Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%206.1.md): patrón mediator para mediar entre los usuarios y el sistema mientras se realizan las solicitudes.
-* [Opción 2](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%206.2.md): gestionar las solicitudes en el propio sistema.
+* [Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%208.1.md): patrón mediator para mediar entre los usuarios y el sistema mientras se realizan las solicitudes.
+* [Opción 2](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%208.2.md): gestionar las solicitudes en el propio sistema.
 
 ## Decisión resultante.
 
-Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%206.1.md)", Porque a la hora de gestionar las solicitudes tener un mediador aumenta la escalabilidad de la funcionalidad de las solicitudes.
+Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%208.1.md)", Porque a la hora de gestionar las solicitudes tener un mediador aumenta la escalabilidad de la funcionalidad de las solicitudes.
 
 ### Consecuencias positivas
 

@@ -8,4 +8,4 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: Decisión 15.1.1
+* Motivación 1: [Decisión 14.2.1](https://github.com/santo2927/DAS-2021-22/edit/master/Dedisión%20de%20diseño%2014.2.1.md)

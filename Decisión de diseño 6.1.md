@@ -8,9 +8,9 @@
 
 ## Motivos de la decisión.
 
-* Motivación 1: Decisión 3.1.1 (Se ha de iniciar sesión).
+* Motivación 1: [Decisión 3.1.1](https://github.com/santo2927/DAS-2021-22/edit/master/Decisión%20de%20diseño%203.1.1.md).
 * Motivación 2: Los microservicios deberán usar el protocolo REST.
-* Motivación 3: Decisión 5.1 (Se ha de conectar la aplicación con una BBDD MongoDB para la localización de los distintos microservicios)
+* Motivación 3: [Decisión 5.1](https://github.com/santo2927/DAS-2021-22/edit/master/Decisión%20de%20diseño%205.1.txt)
 
 
 ## Opciones consideradas.

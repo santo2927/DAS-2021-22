@@ -4,7 +4,9 @@
 * Decisores: Gabriel Villasevil, Alejandro Fernández.
 * Fecha: 31/10/2021
 
-## Necesitamos una BBDD que almacene los distintos tipos de usuarios del sistema.
+## Contexto y problema
+
+Necesitamos una BBDD que almacene los distintos tipos de usuarios del sistema.
 
 ## Motivos de la decisión.
 

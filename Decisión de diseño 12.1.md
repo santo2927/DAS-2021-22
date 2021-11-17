@@ -4,6 +4,10 @@
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 17/11/2021
 
+## Contexto y problema
+
+Necesitamos un estilo principal para diseñar el proyecto
+
 ## Opciones Consideradas
 
 * [Opción 1](https://github.com/santo2927/DAS-2021-22/edit/master/Decisión%20de%20diseño%2012.1.md): Modelo Vista Controlador

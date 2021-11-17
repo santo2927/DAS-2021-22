@@ -12,7 +12,7 @@
 * Motivación 2: [Requisito 3.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.2%20Almacenar%20Datos%20de%20Compra.txt)
 * Motivación 3: [Requisito 3.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.4%20Almacenar%20Lolalización%20de%20Microservicios.txt)
 * Motivación 4: [Requisito 7](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R7%20Acceso%20a%20Bases%20de%20Datos.txt)
-* Motivación 5: [Decisión 1.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.md)
+* Motivación 5: [Decisión 12.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%2012.2.md)
 
 ## Opciones consideradas.
 

@@ -9,7 +9,7 @@
 ## Motivos de la decisión.
 
 * Motivación 1: [Requisito 6](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R6%20Sistema%20de%20Seguridad.txt)
-* Motivación 2: [Decision 1.4](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.md)
+* Motivación 2: [Decision 12.2](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%2012.2.md)
 
 ## Opciones consideradas.
 

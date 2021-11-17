@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernandez, Gabriel Villasevil.
 * Fecha: 02/11/2021.
 
-## Es necesaria una base de datos que almacene la localización de los distintos microservicios.
+## Contexto y problema
+
+Es necesaria una base de datos que almacene la localización de los distintos microservicios.
 
 ## Motivos de la decisión.
 

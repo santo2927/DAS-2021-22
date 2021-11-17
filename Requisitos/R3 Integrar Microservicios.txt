@@ -1,5 +1,5 @@
 La aplicación debe ser capaz de poder integrar microservicios para así poder mantenerse 
-aun que se produzcan un mayor número de compras y guardar las preferencias de los usuarios.
+aunque se produzcan un mayor número de compras y guardar las preferencias de los usuarios.
 
 ¿Por qué?
 

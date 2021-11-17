@@ -1,12 +1,12 @@
-# Tener una capa de Datos
+# Tener una capa de Datos.
 
 * Estado: Aceptada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
-* Fecha: 16/11/2021
+* Fecha: 2021-11-16.
 
-## Contexto y problema
+## Contexto y problema.
 
-Es necesario una capa para gestionar los distios datos que utiliza el sistema
+Es necesario una capa para gestionar los distios datos que utiliza el sistema.
 
 ## Motivos de la decisión.
 
@@ -20,10 +20,10 @@ Es necesario una capa para gestionar los distios datos que utiliza el sistema
 
 Opción escogida: "Opción 1", Al decidir el estilo principal como capas podemos implementar una capa dedicada a los distintos datos que va a utilizar el sitema intermediando entre la capa de Negocio y la capa de Bases de Datos.
 
-### Consecuencias positivas
+### Consecuencias positivas.
 
 * Añadir una capa enteramente dedicada a los datos y a como modelarlos.
 
-### Consecuencias negativas
+### Consecuencias negativas.
 
 * Rehacer el estilo principal de la practica para poder implementarlo.

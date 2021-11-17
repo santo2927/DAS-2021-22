@@ -2,15 +2,15 @@
 
 * Estado: Aceptado.
 * Decisores: Gabriel Villasevil, Alejandro Fernández.
-* Fecha: 02/11/2021
+* Fecha: 2021-11-02.
 
-## Contexto y problema
+## Contexto y problema.
 
 Necesitamos integrar y gestionar distintas funcionalidades.
 
 ## Motivos de la decisión.
 
-* Motivación 1: [Requisito 3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3%20Integrar%20Microservicios.txt)
+* Motivación 1: [Requisito 3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3%20Integrar%20Microservicios.txt).
 
 ## Opciones consideradas.
 
@@ -21,13 +21,13 @@ Necesitamos integrar y gestionar distintas funcionalidades.
 
 Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%204.1.md)": Para integrar con facilidad los microservicios.
 
-### Consecuencias positivas
+### Consecuencias positivas.
 
 * Son pequeños y fáciles en desarrollar y entender.
 * El desarrollo puede hacerse de manera independiente
 * Elimina la dependencia tecnológica
 
-### Consecuencias negativas
+### Consecuencias negativas.
 
 * Complejidad de sistemas distribuidos.
 * Complejidad del testing.

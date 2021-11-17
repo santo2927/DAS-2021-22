@@ -2,15 +2,15 @@
 
 * Estado: Rechazada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
-* Fecha: 09/11/2021
+* Fecha: 2021-11-09.
 
-## Contexto y problema
+## Contexto y problema.
 
 Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
 
 ## Motivos de la decisión.
 
-* Motivación 1: [Requisito 3.3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.3%20Gestionar%20Solicitudes.txt)
+* Motivación 1: [Requisito 3.3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.3%20Gestionar%20Solicitudes.txt).
 
 ## Opciones consideradas.
 
@@ -21,10 +21,10 @@ Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
 
 Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%202.1.md)", Porque a la hora de gestionar las solicitudes tener un mediador aumenta la escalabilidad de la funcionalidad de las solicitudes.
 
-### Consecuencias positivas
+### Consecuencias positivas.
 
 * Gestionar las solicitudes desde el sistema sin mediar podría acelerar levemente el proceso.
 
-### Consecuencias negativas
+### Consecuencias negativas.
 
 * La escalabilidad es reducida, ya que para añadir funcionalidades al sistema de gestión de solicitudes habría que modificar al mismo tiempo los campos de la base de datos y las funcionalidades del sistema.

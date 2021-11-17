@@ -2,9 +2,9 @@
 
 * Estado: Aceptada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
-* Fecha: 09/11/2021
+* Fecha: 2021-11-09.
 
-## Contexto y problema
+## Contexto y problema.
 
 Es necesario que el sistema notifique al usuario cuando se realice una compra.
 
@@ -14,16 +14,16 @@ Es necesario que el sistema notifique al usuario cuando se realice una compra.
 
 ## Opciones consideradas.
 
-* Opción 1: Patrón observer para mensajería
+* Opción 1: Patrón observer para mensajería.
 
 ## Decisión resultante.
 
 Opción escogida: "Opción 1", Porque el patrón observer es un patrón específicacmente diseñado para la notificación del usuario.
 
-### Consecuencias positivas
+### Consecuencias positivas.
 
 * Habilita de manera óptima la notificación al usuario cuando sea necesario.
 
-### Consecuencias negativas
+### Consecuencias negativas.
 
 * Ninguna.

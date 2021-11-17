@@ -2,9 +2,9 @@
 
 * Estado: Aceptada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
-* Fecha: 09/11/2021
+* Fecha: 2021-11-09.
 
-## Contexto y problema
+## Contexto y problema.
 
 Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
 
@@ -21,10 +21,10 @@ Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
 
 Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%208.1.md)", Porque a la hora de gestionar las solicitudes tener un mediador aumenta la escalabilidad de la funcionalidad de las solicitudes.
 
-### Consecuencias positivas
+### Consecuencias positivas.
 
 * Se podrá escalar la funcionabilidad del sistema de solicitudes de forma más eficiente.
 
-### Consecuencias negativas
+### Consecuencias negativas.
 
 * Añadir un paso entre el usuario y el sistema para controlar las solicitudes de manera eficiente podría ralentizar el proceso levemente.

@@ -2,9 +2,11 @@
 
 * Estado: Rechazada en la iteración actual
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
-* Fecha: 02/11/2021
+* Fecha: 17/11/2021
 
-## Podemos implementar la interfaz en la capa Usuario
+## Contexto y problema
+
+Podemos implementar la interfaz en la capa Usuario y no es nuestra competencia si la WEB es o no responsive
 
 ## Motivos de la decisión.
 

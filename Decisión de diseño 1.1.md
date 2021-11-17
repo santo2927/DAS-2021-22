@@ -16,7 +16,6 @@
 * Opción 1: [Modelo Vista Controlador](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.1.md)
 * Opción 2: [Cliente-servidor](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.2.md)
 * Opción 3: [Pizarra](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.3.md)
-* Opción 4: [Capas](https://github.com/santo2927/DAS-2021-22-/blob/master/Decisión%20de%20diseño%201.4.md)
 
 ## Decisión Final
 

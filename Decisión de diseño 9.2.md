@@ -13,13 +13,13 @@
 
 ## Opciones consideradas.
 
-* [Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.1.md): Estilo Cliente-Servidor.
-* [Opción 2](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.2.md): Integrar los microservicios dentro del MVC.
-* [Opción 3](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.3.md): Estilo Rest.
+* [Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%209.1.md): Estilo Cliente-Servidor.
+* [Opción 2](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%209.2.md): Integrar los microservicios dentro del MVC.
+* [Opción 3](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%209.3.md): Estilo Rest.
 
 ## Decisión resultante.
 
-Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%207.1.md)", Porque a la hora de gestionar las solicitudes tener un mediador aumenta la escalabilidad de la funcionalidad de las solicitudes.
+Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%209.1.md)", Porque a la hora de gestionar las solicitudes tener un mediador aumenta la escalabilidad de la funcionalidad de las solicitudes.
 
 ### Consecuencias positivas
 

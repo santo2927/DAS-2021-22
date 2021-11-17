@@ -1,7 +1,11 @@
 # Estilo por capas para manejar las distintas funcionalidades de la aplicación
 * Estado: Aceptada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
-* Fecha: 2021-11-16
+* Fecha: 16/11/2021
+
+## Contexto y problema
+
+Necesitamos un estilo principal para diseñar el proyecto
 
 ## Motivos de la decisión
 

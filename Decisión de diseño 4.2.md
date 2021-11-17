@@ -2,7 +2,7 @@
 
 * Estado: Rechazado.
 * Decisores: Gabriel Villasevil, Alejandro Fernández.
-* Fecha: 2/11/2021
+* Fecha: 02/11/2021
 
 ## Contexto y problema
 

@@ -57,9 +57,15 @@
 * [Decision de diseño 13.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%2013.1.md)
 * [Decision de diseño 14.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%2014.1.md)
 * [Decision de diseño 15.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%2015.1.md)
+* [Decision de diseño 16.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%2016.1.md)
+* [Decision de diseño 16.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%2016.2.md)
 
-### UML FINAL:
-![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204.PNG)
+
+### DIAGRAMA DE CLASES FINAL:
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204-DiagramaDeClases.png)
+
+### DIAGRAMA DE DESPLIEGUE:
+![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%204-DiagramaDeDespliegue.png)
 
 ### TABLA DE TIEMPOS:
 | Semana | Iteración | Tiempo en ADD | Tiempo de reflexión | Tiempo de refinado | Tiempo de diseño |

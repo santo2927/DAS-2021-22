@@ -4,6 +4,4 @@
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 2021-11-17 
 
-# La aplicación ha de tener una entidad centralizada por lo que necesitamos gestionar bien las instancias que se tengan de la aplicación
-
-* Motivacion 1: No necesitamos un patrón creacional
+# No necesitamos un patrón creacional

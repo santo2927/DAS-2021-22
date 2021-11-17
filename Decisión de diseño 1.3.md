@@ -4,6 +4,10 @@
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
 * Fecha: 27/10/2021
 
+## Contexto y problema
+
+Necesitamos un estilo principal para diseñar el proyecto
+
 ## Motivos de la decisión
 
 * Motivación 1: [Requisito 3.1](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3.1%20Almacenar%20Preferencias.txt) (Seria parte de la pizarra)

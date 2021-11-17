@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 16/11/2021
 
-## Es necesario una capa para gestionar los microservicios
+## Contexto y problema
+
+Es necesario una capa para gestionar los microservicios
 
 ## Motivos de la decisión.
 
@@ -12,7 +14,6 @@
 * Motivacion 2: [Requisito 3](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R3%20Integrar%20Microservicios.txt)
 * Motivacion 3: [Requisito 4](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R4%20Conectar%20con%20el%20Sistema%20de%20pago.txt)
 * Motivacion 4: [Requisito 5](https://github.com/santo2927/DAS-2021-22-/blob/master/Requisitos/R5%20Sistema%20de%20Mensajería.txt)
-
 
 ## Opciones consideradas.
 

@@ -1,10 +1,12 @@
 # Patron creacional de la aplicación basado en el patrón Builder
 
-* Estado: Aceptada
+* Estado: Rechazada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
-* Fecha: 2021-10-31
+* Fecha: 31/10/2021
 
-# La aplicación ha de tener una entidad centralizada por lo que necesitamos gestionar bien las instancias que se tengan de la aplicación
+# Contexto y problema
+
+La aplicación ha de tener una entidad centralizada por lo que necesitamos gestionar bien las instancias que se tengan de la aplicación
 
 ## Opciones Consideradas
 

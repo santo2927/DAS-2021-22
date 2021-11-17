@@ -2,7 +2,7 @@
 
 * Estado: Aceptada
 * Decisores: Alejandro Fernandez, Gabriel Villasevil
-* Fecha: 2021-10-27
+* Fecha: 27/10/2021
 
 ## Motivos de la decisión
 

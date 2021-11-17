@@ -13,12 +13,11 @@
 
 ## Opciones consideradas.
 
-* [Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%201.4.3.md): Capa de seguridad mediante el estilo principal
-* [Opción 2](): Gestionar el sistema de seguridad mediante hasheo de contraseñas en la base de datos.
+* Opción 1: Capa de seguridad mediante el estilo principal
 
 ## Decisión resultante.
 
-Opción escogida: "[Opción 1](https://github.com/santo2927/DAS-2021-22-/edit/master/Decisión%20de%20diseño%201.4.3.md)", Al decidir el estilo principal como capas podemos implementar la seguridad como una capa entre Usuario y Negocio.
+Opción escogida: "Opción 1", Al decidir el estilo principal como capas podemos implementar la seguridad como una capa entre Usuario y Negocio.
 
 ### Consecuencias positivas
 

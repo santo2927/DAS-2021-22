@@ -22,7 +22,7 @@ Opción escogida: "Opción 1", Al decidir el estilo principal como capas podemos
 
 ### Consecuencias positivas
 
-* Añadir una capa enteramente dedicada a las bases de datos y la comunicación con las mimsamas.
+* Añadir una capa enteramente dedicada a los datos y a como modelarlos.
 
 ### Consecuencias negativas
 

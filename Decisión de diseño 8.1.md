@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 09/11/2021
 
-## Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
+## Contexto y problema
+
+Es necesario un sistema que gestione las solicitudes de los usuarios al sistema.
 
 ## Motivos de la decisión.
 

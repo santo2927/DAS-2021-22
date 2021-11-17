@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 02/11/2021
 
-## Es necesaria una base de datos que almacene los distintos tipos de recursos activos.
+## Contexto y problema
+
+Es necesaria una base de datos que almacene los distintos tipos de recursos activos.
 
 ## Motivos de la decisión.
 

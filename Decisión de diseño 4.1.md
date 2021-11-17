@@ -2,9 +2,11 @@
 
 * Estado: Aceptado.
 * Decisores: Gabriel Villasevil, Alejandro Fernández.
-* Fecha: 2/11/2021
+* Fecha: 02/11/2021
 
-## Necesitamos integrar y gestionar distintas funcionalidades.
+## Contexto y problema
+
+Necesitamos integrar y gestionar distintas funcionalidades.
 
 ## Motivos de la decisión.
 

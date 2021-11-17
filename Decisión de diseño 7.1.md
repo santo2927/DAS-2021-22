@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 02/11/2021
 
-## Es necesaria una página web responsive para que pueda adaptarse a cualquier tipo de dispositivo.
+## Contexto y problema
+
+Es necesaria una página web responsive para que pueda adaptarse a cualquier tipo de dispositivo.
 
 ## Motivos de la decisión.
 

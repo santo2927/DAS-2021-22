@@ -4,7 +4,9 @@
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 16/11/2021
 
-## Es necesario una capa de seguridad para nuestro sistema.
+## Contexto y problema
+
+Es necesario una capa de seguridad para nuestro sistema.
 
 ## Motivos de la decisión.
 

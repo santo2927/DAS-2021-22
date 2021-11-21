@@ -22,6 +22,8 @@
 * [Decision de diseño 4.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%204.2.md)
 * [Decision de diseño 5.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%205.1.md)
 * [Decision de diseño 5.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%205.2.md)
+* [Decision de diseño 6.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%206.1.md)
+* [Decision de diseño 7.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%207.1.md)
 
 ### UML tras la segunda iteración.
 ![UML](https://github.com/santo2927/DAS-2021-22/blob/master/Iteracion%202.PNG)
@@ -29,8 +31,6 @@
 ## ITERACIÓN 3:
 
 ### Decisiones
-* [Decision de diseño 6.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%206.1.md)
-* [Decision de diseño 7.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%207.1.md)
 * [Decision de diseño 8.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%208.1.md)
 * [Decision de diseño 8.2](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%208.2.md)
 * [Decision de diseño 9.1](https://github.com/santo2927/DAS-2021-22/blob/master/Decisión%20de%20diseño%209.1.md)

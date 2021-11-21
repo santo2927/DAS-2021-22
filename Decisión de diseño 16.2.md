@@ -1,6 +1,6 @@
 # Sistema de roles sin patrón establecido para acceder a los distintos recursos.
 
-* Estado: Aceptada.
+* Estado: Rechazada.
 * Decisores: Alejandro Fernández, Gabriel Villasevil.
 * Fecha: 2021-11-17.
 
